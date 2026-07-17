@@ -14,7 +14,7 @@ I build the systems that make AI trustworthy in production.
 
 - Verification layers for enterprise AI — hallucination detection, compliance scoring, EU AI Act alignment
 - AI-augmented engineering workflows — Claude Code skill libraries, Elasticsearch MCP integration, LLM-driven log analysis
-- Open source: [Context Engine](https://github.com/chowdhury-nahid/context-engine) — knowledge management via MCP
+- Open source: [Context Engine](https://medium.com/@chowdhurynahid/the-problem-with-ai-memory-and-the-file-based-system-that-fixed-mine-442f684890b0) — knowledge management via MCP
 
 ## Selected Work
 
